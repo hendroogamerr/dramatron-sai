@@ -8,7 +8,7 @@ Dramatron is conceived as a writing tool and as a source of inspiration and expl
 
 One concrete illustration of how Dramatron can be utilised by creative communities is how one playwright staged 4 heavily edited and rewritten scripts co-written alongside Dramatron. In the public theatre show, *Plays by Bots*, a talented cast of experienced actors with improvisational skills gave meaning to Dramatron scripts through acting and interpretation.
 
-During the development of Dramatron and through discussions with industry professionals, we made several important observations:
+During the development of Dramatron-sai and through discussions with industry professionals, we made several important observations:
 
 * Dramatron is a **co-writing** system that has only been used in collaboration with human writers, and was not conceived or evaluated to be used autonomously.
 * Dramatron’s top-down hierarchical story generation structure does not correspond to every writer's writing process.
